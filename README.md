@@ -76,6 +76,7 @@ One big source of inspiration for this is [The Missing Semester of Your CS Educa
 - "How can I find study partners for ML projects?"
 - "What conferences or meetups should I prioritize?"
 - "How do I balance learning fundamentals vs. new tools?"
+- "What's a good standard ML Lifecycle process to adopt?" See https://ml-ops.org/content/crisp-ml for possible answer
 
 ### Dream Roles
 - Machine Learning Engineer
