@@ -110,14 +110,15 @@ We cover breadth but leave it to your individual selves to go in-depth via Udemy
 
 - Shell (PowerShell / xMobTerm)
 - Command Line (SSH, file operations)
-- Version Control (Git)
-- GitHub
+- Version Control (Git & GitHub)
+- Video recording
 - Docker and VMs (Cloud)
 - IDE (VS Code)
 - Database GUI Tools
 - Continuous Integration / Continuous Delivery (CI/CD)
-- Debugging
+- Debugging and Profiling
 - Markdown
+- Markup Languages (JSON, YAML)
 - APIs
 - Using LLM to learn
 - Diagram Drawing (Mermaid)
@@ -140,3 +141,14 @@ By level-up blockers, we assume you want to be AI-Aspiring Alex eventually, so n
 How much to know? Again, enough to get by.
 
 
+### Learning Path for AI-Aspiring Alex
+
+The learning path for AI-Aspiring Alex is more speculative than the learning path for Code-Curious Casey.
+
+This is to be expected as you get closer to the cutting edge where sometimes things don't work out.
+
+On the plus side, that means more room for you to contribute back and stand out.
+
+- Hammerspoom (Desktop automation in macOS)
+- LaTex
+- Local LLM (Ollama)
