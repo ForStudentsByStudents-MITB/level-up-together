@@ -9,6 +9,13 @@ One big source of inspiration for this is [The Missing Semester of Your CS Educa
 - Code-Curious Casey
 - AI Aspiring Alex
 
+We choose the names Casey and Alex because they are the most gender neutral while still conforming to alliteration.
+
+The names "Code-Curious Casey" and "AI-Aspiring Alex" are designed to be memorable while highlighting their key characteristics:
+
+- Casey represents the careful but determined career-changer who needs confidence-building and clear pathways
+- Alex represents the technically confident professional who needs to bridge specific knowledge gaps
+
 ## 1. "Code-Curious Casey"
 *The Career Pivoting Professional*
 
@@ -91,3 +98,45 @@ One big source of inspiration for this is [The Missing Semester of Your CS Educa
 - Connecting with AI practitioners and researchers
 - Contributing to AI open source projects
 - Participating in AI hackathons and competitions
+
+
+## Learning Paths
+
+### Learning Path for Code-Curious Casey
+
+Taking inspiration from [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+We cover breadth but leave it to your individual selves to go in-depth via Udemy courses and YouTube videos.
+
+- Shell (PowerShell / xMobTerm)
+- Command Line (SSH, file operations)
+- Version Control (Git)
+- GitHub
+- Docker and VMs (Cloud)
+- IDE (VS Code)
+- Database GUI Tools
+- Continuous Integration / Continuous Delivery (CI/CD)
+- Debugging
+- Markdown
+- APIs
+- Using LLM to learn
+- Diagram Drawing (Mermaid)
+
+### Why These Topics For Casey
+
+Mostly for two reasons:
+
+1. They are career show-stoppers
+2. They are level-up blockers
+
+**Career Show-stoppers**:
+By career show-stoppers, we mean if you want a code-facing tech job and you know **nothing** of this skill, hiring managers will use this to filter you out.
+
+How much to know? Enough basics to get by.
+
+**Level-up Blockers**:
+By level-up blockers, we assume you want to be AI-Aspiring Alex eventually, so not knowing this skill may prevent you from going to that level.
+
+How much to know? Again, enough to get by.
+
+
