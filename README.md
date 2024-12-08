@@ -20,17 +20,19 @@ The names "Code-Curious Casey" and "AI-Aspiring Alex" are designed to be memorab
 *The Career Pivoting Professional*
 
 ### Background
-- Current role in non-tech field (e.g., marketing, finance, or education)
+- Current role in non-tech field (e.g., marketing, finance, sciences, or education)
 - Has basic computer literacy but no formal programming experience
-- Windows user with limited exposure to development environments
+- Windows user with limited exposure to development environments (or Mac user but never used the terminal)
 - Masters program is their first step into formal tech education
 
 ### Technical Environment Challenges
+- Little to zero experience with coding
 - Unfamiliar with command line/shell operations
 - Never used version control systems like Git
 - Limited understanding of IDE features and benefits
 - No exposure to CI/CD concepts or tools
 - Primarily used GUI-based applications for work
+- No idea what MLOps workflow is about
 
 ### Key Attributes
 - Motivated but intimidated by technical concepts
@@ -41,10 +43,14 @@ The names "Code-Curious Casey" and "AI-Aspiring Alex" are designed to be memorab
 
 ### Typical Questions
 - "What's the difference between Command Prompt and PowerShell?"
+- "What's the difference between Linux and Windows operating systems?"
 - "Why can't I just download code files manually instead of using Git?"
 - "How do I set up my computer for coding?"
 - "What does IDE actually mean and why do I need one?"
 - "How do professional developers organize their work?"
+- "What skills am I lacking?"
+- "Where do I start?"
+- "What resources are there for me?"
 
 ### Dream Roles
 - Business Analyst with coding responsibilities
@@ -52,6 +58,7 @@ The names "Code-Curious Casey" and "AI-Aspiring Alex" are designed to be memorab
 - Low-code/No-code Developer
 - Solutions Consultant
 - Technical Customer Success Manager
+- Engineer/scientist using AI/ML tools (e.g., research scientist, manufacturing engineer, data scientist)
 
 ## 2. "AI-Aspiring Alex"
 *The Tech Professional Seeking ML Evolution*
